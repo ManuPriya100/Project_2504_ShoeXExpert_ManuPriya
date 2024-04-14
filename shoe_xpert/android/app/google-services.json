@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581590950460",
+    "project_id": "shoexpert-9e35e",
+    "storage_bucket": "shoexpert-9e35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581590950460:android:cae0bd6ab5589b8ba09939",
+        "android_client_info": {
+          "package_name": "com.example.shoe_xpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUmG2__goVXeJQFDRMK7T6sc9JoxmuR8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
